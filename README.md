@@ -1,3 +1,26 @@
+Personal copy to run on Mac Intel...
+
+Run:
+
+./recreate_flatcam_env.sh
+
+Should install these versions:
+
+Python   3.11
+NumPy    1.26.4
+PyQt6    6.7.1
+Qt       6.7.1
+VisPy    0.9.0
+
+Then run:
+
+conda activate flatcam
+python flatcam.py
+
+
+
+----------------------------------------------
+
 FlatCAM Evo (c) 2019 - by Marius Stanciu
 
 Based on FlatCAM: 
