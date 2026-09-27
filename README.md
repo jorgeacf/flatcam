@@ -2,7 +2,9 @@ Personal copy to run on Mac Intel...
 
 Run:
 
+```
 ./recreate_flatcam_env.sh
+```
 
 Should install these versions:
 
@@ -14,10 +16,10 @@ VisPy    0.9.0
 
 Then run:
 
+```
 conda activate flatcam
 python flatcam.py
-
-
+```
 
 ----------------------------------------------
 
